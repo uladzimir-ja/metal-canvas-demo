@@ -1,0 +1,14 @@
+{
+  "id": "pencil_2b",
+  "renderer": "stamp",
+  "stampBlend": "max",
+  "shape": "pencil_tip",
+  "grain": "paper", "grainSpace": "canvas", "grainScale": 1.0, "grainStrength": 0.6,
+  "spacing": 0.08,
+  "size": [1.5, 9],
+  "flow": 0.9,
+  "opacity": 1.0,
+  "pressure": { "size": 1.0, "opacity": 0.5 },
+  "tilt": { "size": 2.5 },
+  "jitter": { "rotation": 1.0 }
+}

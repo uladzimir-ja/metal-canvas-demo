@@ -1,0 +1,12 @@
+{
+  "id": "eraser_soft",
+  "renderer": "stamp",
+  "mode": "erase",
+  "stampBlend": "max",
+  "shape": "round_soft",
+  "spacing": 0.08,
+  "size": [12, 32],
+  "flow": 1.0,
+  "opacity": 1.0,
+  "pressure": { "size": 0.6, "opacity": 0.5 }
+}
